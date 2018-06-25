@@ -3,6 +3,7 @@ Dustin Vuong
 
 -----------------------------
 **dvuong2@csu.fullerton.edu**
+
 **(949)295-6790**
 >24862 Monte Verde Dr
 >Laguna Niguel, CA 92677
@@ -42,13 +43,13 @@ IDE Familiarity
 ===============
 
 *   Eclipse
- +   ***C++***
+ -   ***C++***
 *   Microsoft Visual Studios
- +   ***C++*** 
+ -   ***C++*** 
 *   QT Creator(Community)
- +   ***QT***
+ -   ***QT***
 *   Netbeans
- +   ***Java***
+ -   ***Java***
 
 Work Experience
 ===============
