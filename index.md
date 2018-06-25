@@ -9,12 +9,11 @@ Dustin Vuong
 Education
 =========
 
-----
 >**2013-2017** 	     *Saddleback College*
-   +Computer Science
++   Computer Science
 
 >**2017-2020(Expected)**      *Cal State Fullerton*  
-   +B.S. Computer Science 
++   B.S. Computer Science 
 
 ----
 
@@ -31,7 +30,7 @@ Language | Description
 Environments Used
 =================
 
-+   Eclipse
++   Eclipse 	
 +   Microsoft Visual Studios
 +   QT Creator(Community)
 +   Netbeans
@@ -39,6 +38,8 @@ Environments Used
 Work Experience
 ===============
 
-Job | Responsibilities
-|---|---
-**Yogurtland** | Great customer service
+Date | Company | Position| Responsibilities
+|----|-----|---------|---
+*August 2017-Present*|Yogurtland |**Store Associate**| General Customer Service, product recommendation, hygienic upkeep of store, precise cash management, relaxing/stable communication, delivering a happy customer experience
+*July 2014-October 2014*|Radioshack|**Sales Associate**|Satisfactory customer service, explanation of technical details of products, explaining product/carrier plans in simplistic terms for customer needs, regular store upkeep
+
