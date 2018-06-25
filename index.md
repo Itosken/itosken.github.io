@@ -1,10 +1,12 @@
 Dustin Vuong
-============
+================
 
------------------------------                      ---------------------------- 
-24862 Monte Verde Dr                                   dvuong2@csu.fullerton.edu
-Laguna Niguel, CA 92677                                            (949)295-6790
------------------------------                      -----------------------------
+-----------------------------
+**dvuong2@csu.fullerton.edu**
+**(949)295-6790**
+>24862 Monte Verde Dr
+>Laguna Niguel, CA 92677
+-----------------------------                    
 
 
 Objective
@@ -40,13 +42,13 @@ IDE Familiarity
 ===============
 
 +   Eclipse
-   ***C++***
+*   ***C++***
 +   Microsoft Visual Studios
-   ***C++*** 
+*   ***C++*** 
 +   QT Creator(Community)
-   ***QT***
+*   ***QT***
 +   Netbeans
-   ***Java***
+*   ***Java***
 
 Work Experience
 ===============
@@ -55,4 +57,3 @@ Date | Company | Position| Responsibilities
 |----|-----|---------|---
 *August 2017-Present*|Yogurtland |**Store Associate**| General Customer Service, product recommendation, hygienic upkeep of store, precise cash management, relaxing/stable communication, delivering a happy customer experience
 *July 2014-October 2014*|Radioshack|**Sales Associate**|Satisfactory customer service, explanation of technical details of products, explaining product/carrier plans in simplistic terms for customer needs, regular store upkeep
-
