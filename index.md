@@ -1,5 +1,14 @@
 Dustin Vuong
 ============
+
+==========================================================
+24862 Monte Verde Dr		dvuong2@csu.fullerton.edu
+Laguna Niguel, CA 92677		(949)295-6790
+==========================================================
+
+
+Objective
+=========
 >Graduate with a Bachelor's of Science in Computer Science
 >while acquiring skills that will successfully show my 
 >competency in Programming
@@ -30,10 +39,14 @@ Language | Description
 Environments Used
 =================
 
-+   Eclipse 	
++   Eclipse
+>   ***C++***
 +   Microsoft Visual Studios
+>   ***C++*** 
 +   QT Creator(Community)
+>   ***QT***
 +   Netbeans
+>   ***Java***
 
 Work Experience
 ===============
