@@ -10,14 +10,17 @@ Education
 =========
 
 ----
->**2013-2017** 			*Saddleback College 
->**2017-2020(Expected)** 	*Cal State Fullerton  B.S. Computer Science* 
+>**2013-2017** 	     *Saddleback College*
+   Computer Science
+
+>**2017-2020(Expected)**      *Cal State Fullerton*  
+   B.S. Computer Science 
 
 ----
 
 Languages
 ---------
-*Programming Language | Description
+Programming Language | Description
 | --- 		     | ---
 **C++** | *A basic programming language to help extend and branch out the general foundation*
 **Java** | *Another well known programming language which help understand the basicities of coding architecture*
