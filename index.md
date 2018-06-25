@@ -43,7 +43,3 @@ Work Experience
 Job | Responsibilities
 |---|---
 **Yogurtland** | **Great customer service
-
-
->
-  
