@@ -20,22 +20,22 @@ Education
 
 Languages
 ---------
-Programming Language|Description
-|-------------------|-----------
-**C++**             |*A basic programming language to help extend and branch out the general foundation*
-**Java**            |*Another well known programming language which help understand the basicities of coding architecture*
-**QT**              | *An integrated programming which uses C++ as a foundation, but has GUI as an extension*
-**SQL**             | *Programming language that is generally used to maintain online server*
 
----
+Programming Language | Description
+|---|---
+**C++**             |*A basic programming language to help extend and branch out 		     the general foundation*
+**Java**            |*Another well known programming language which help underst                      and the basicities of coding architecture*
+**QT**              |*An integrated programming which uses C++ as a foundation,                      but has GUI as an extension*
+**SQL**             |*Programming language that is generally used to maintain o                      nline server*
+---------
 
 Environments Used
 =================
 
-+Eclipse
-+Microsoft Visual Studios
-+QT Creator(Community)
-+Netbeans
++   Eclipse
++   Microsoft Visual Studios
++   QT Creator(Community)
++   Netbeans
 
 Work Experience
 ===============
