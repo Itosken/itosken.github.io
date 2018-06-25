@@ -11,17 +11,17 @@ Education
 
 ----
 >**2013-2017** 	     *Saddleback College*
-   Computer Science
+   +Computer Science
 
 >**2017-2020(Expected)**      *Cal State Fullerton*  
-   B.S. Computer Science 
+   +B.S. Computer Science 
 
 ----
 
 Languages
 ---------
 Programming Language | Description
-| --- 		     | ---
+|--- | ---
 **C++** | *A basic programming language to help extend and branch out the general foundation*
 **Java** | *Another well known programming language which help understand the basicities of coding architecture*
 **QT** | *An integrated programming which uses C++ as a foundation, but has GUI as an extension*
@@ -32,10 +32,10 @@ Programming Language | Description
 Environments Used
 =================
 
->Eclipse
->Microsoft Visual Studios
->QT Creator(Community)
->Netbeans
++Eclipse
++Microsoft Visual Studios
++QT Creator(Community)
++Netbeans
 
 Work Experience
 ===============
