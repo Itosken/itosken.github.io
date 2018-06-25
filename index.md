@@ -42,14 +42,14 @@ Language | Description
 IDE Familiarity 
 ===============
 
-1.   Eclipse
- -   ***C++***
-2.   Microsoft Visual Studios
- -   ***C++*** 
-3.   QT Creator(Community)
- -   ***QT***
-4.   Netbeans
- -   ***Java***
+1. Eclipse
+ + ***C++***
+2. Microsoft Visual Studios
+ + ***C++*** 
+3. QT Creator(Community)
+ + ***QT***
+4. Netbeans
+ + ***Java***
 
 Work Experience
 ===============
