@@ -6,11 +6,12 @@ Dustin Vuong
 
 ----
 Education
-=========
+===
 ----
 >2013-2017 Saddleback College 
 
->2017-2020(Expected) Cal State Fullerton
+>2017-2020(Expected) Cal State Fullerton  B.S. Computer Science 
+
 ----
 
 Languages
@@ -27,10 +28,10 @@ Programming Language | Description
 Environments Used
 =================
 
-	...Eclipse
-	...Microsoft Visual Studios
-	...QT Creator(Community)
-	...Netbeans
+>Eclipse
+>Microsoft Visual Studios
+>QT Creator(Community)
+>Netbeans
 
 Work Experience
 ===============
