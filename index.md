@@ -1,10 +1,10 @@
 Dustin Vuong
 ============
 
------------------------         -------------------------
-24862 Monte Verde Dr		dvuong2@csu.fullerton.edu
-Laguna Niguel, CA 92677		(949)295-6790
------------------------         -------------------------
+--------------------                                   -------------------------
+24862 Monte Verde Dr                                   dvuong2@csu.fullerton.edu
+Laguna Niguel, CA 92677                                            (949)295-6790
+-----------------------                                            -------------
 
 
 Objective
@@ -18,10 +18,10 @@ Objective
 Education
 =========
 
->**2013-2017** 	     *Saddleback College*
+>**Aug 2013 - May 2017** 	     *Saddleback College*
 +   Computer Science
 
->**2017-2020(Expected)**      *Cal State Fullerton*  
+>**Aug 2017 - May 2020(Expected)**      *Cal State Fullerton*  
 +   B.S. Computer Science 
 
 ----
