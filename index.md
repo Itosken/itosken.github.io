@@ -20,8 +20,8 @@ Education
 
 Languages
 ---------
-Programming Language | Description
-|--- | ---
+Programming Language|Description
+|---|---
 **C++** | *A basic programming language to help extend and branch out the general foundation*
 **Java** | *Another well known programming language which help understand the basicities of coding architecture*
 **QT** | *An integrated programming which uses C++ as a foundation, but has GUI as an extension*
@@ -42,4 +42,4 @@ Work Experience
 
 Job | Responsibilities
 |---|---
-**Yogurtland** | **Great customer service
+**Yogurtland** | Great customer service
