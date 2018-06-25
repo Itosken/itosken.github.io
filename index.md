@@ -18,17 +18,15 @@ Education
 
 ----
 
-Languages
----------
+Programming Languages
+=====================
 
-Programming Language | Description
+Language | Description
 |---|---
-**C++**             |*A basic programming language to help extend and branch out 		     the general foundation*
-**Java**            |*Another well known programming language which help underst                      and the basicities of coding architecture*
-**QT**              |*An integrated programming which uses C++ as a foundation,                      but has GUI as an extension*
-**SQL**             |*Programming language that is generally used to maintain o                      nline server*
----------
-
+**C++**             |*A basic programming language to help extend and branch outthe general foundation for coding*
+**Java**            |*Another well known programming language which help understand the basicities of coding architecture*
+**QT**              |*An integrated programming which uses C++ as a foundation but has GUI as an extension*
+**SQL**             |*Programming language that is generally used to maintain o nline server*
 Environments Used
 =================
 
