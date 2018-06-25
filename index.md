@@ -1,10 +1,10 @@
 Dustin Vuong
 ============
 
-==========================================================
+-----------------------         -------------------------
 24862 Monte Verde Dr		dvuong2@csu.fullerton.edu
 Laguna Niguel, CA 92677		(949)295-6790
-==========================================================
+-----------------------         -------------------------
 
 
 Objective
@@ -36,17 +36,17 @@ Language | Description
 **QT**              |*An integrated programming which uses C++ as a foundation but has GUI as an extension*
 **SQL**             |*Programming language that is generally used to maintain o nline server*
 
-Environments Used
-=================
+IDE Familiarity 
+===============
 
 +   Eclipse
->   ***C++***
+   ***C++***
 +   Microsoft Visual Studios
->   ***C++*** 
+   ***C++*** 
 +   QT Creator(Community)
->   ***QT***
+   ***QT***
 +   Netbeans
->   ***Java***
+   ***Java***
 
 Work Experience
 ===============
