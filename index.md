@@ -56,7 +56,7 @@ Work Experience
 
 Date | Company | Position| Responsibilities
 |----|-----|---------|---
-*August 2017-Present*|Yogurtland |**Store Associate**| General Customer Service, product recommendation, hygienic upkeep of store, precise cash management, relaxing/stable communication, delivering a happy customer experience
+*August 2017-July 2018*|Yogurtland |**Store Associate**| General Customer Service, product recommendation, hygienic upkeep of store, precise cash management, relaxing/stable communication, delivering a happy customer experience
 *July 2014-October 2014*|Radioshack|**Sales Associate**|Satisfactory customer service, explanation of technical details of products, explaining product/carrier plans in simplistic terms for customer needs, regular store upkeep
 
 
