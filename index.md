@@ -26,7 +26,7 @@ Education
 
 >**Aug 2017 - May 2020**      *Cal State Fullerton*  
 +   B.S. Computer Science 
-
++   GPA: 2.83
 ----
 
 Programming Languages
