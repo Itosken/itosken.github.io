@@ -57,7 +57,7 @@ Work Experience
 
 Date | Company | Position| Responsibilities
 |----|-----|---------|---
-*February 2020-Current*|Amazon |**Shop Associate**| General Customer Service, product recommendation, hygienic upkeep of store, Item retriever and packaging
+*February 2020-Current*|Amazon |**Shopper**| General Customer Service, product recommendation, hygienic upkeep of store, Item retriever and packaging
 *August 2017-July 2018*|Yogurtland |**Store Associate**| General Customer Service, product recommendation, hygienic upkeep of store, precise cash management, relaxing/stable communication, delivering a happy customer experience
 
 
