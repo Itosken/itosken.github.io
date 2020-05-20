@@ -13,9 +13,8 @@ Dustin Vuong
 
 Objective
 =========
->Graduate with a Bachelor's of Science in Computer Science
->and to apply my newfound knowledge to help myself and
->others in the professional industry.
+>Expand my knowledge of programming and gain professional experience
+>to become a better programmer.
 
 ----
 
