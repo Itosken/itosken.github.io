@@ -39,17 +39,17 @@ Language | Description
 **SQL**             |*Programming language that is generally used to maintain online server*
 ***Python***        |*Basic Programming Language used universally around the world*
 
-IDE Familiarity 
+Language Familiarity 
 ===============
 
-1. Eclipse
- + ***C++***
-2. Microsoft Visual Studios
- + ***C++*** 
-3. QT Creator(Community)
- + ***QT***
-4. Netbeans
- + ***Java***
+1. C++
+ + ***Eclipse***
+ + ***Microsoft Visual Studios*** 
+2. QT
+ + ***QT Creator(Community)***
+3. Java
+ + ***Netbeans***
+4. Python
 
 Work Experience
 ===============
