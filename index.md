@@ -39,7 +39,7 @@ Language | Description
 **SQL**             |*Programming language that is generally used to maintain online server*
 ***Python***        |*Basic Programming Language used universally around the world*
 
-Language Familiarity 
+IDE Familiarity 
 ===============
 
 1. C++
